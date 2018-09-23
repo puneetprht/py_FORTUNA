@@ -1,0 +1,3 @@
+API_key=jrJ3FwvraXrIK6DuIscxipJXd9TQFQxA7VkqLQ1xJiG
+API_key_secret=2zH5zzDxbB44168DFdyvpF5IpmcTcojDwc9to2JRkT0
+API_name=Automaton
